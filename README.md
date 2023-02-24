@@ -1,6 +1,4 @@
 Mirsap Saleem - Web Developer and Computer Enthusiast
-
-Mirsap Saleem - Web Developer and Computer Enthusiast
 =====================================================
 
 Hello there! My name is Mirsap Saleem, and I am a student studying Computer Information Systems at Kwantlen Polytechnic University. I have a passion for computer hardware and software, and I am always eager to learn more about the latest technologies.
